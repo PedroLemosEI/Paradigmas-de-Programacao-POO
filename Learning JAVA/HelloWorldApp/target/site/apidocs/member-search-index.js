@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"pt.ipp.estg.pp.helloworldapp","c":"HelloWorld","l":"HelloWorld()","url":"%3Cinit%3E()"},{"p":"pt.ipp.estg.pp.helloworldapp","c":"HelloWorld","l":"main(String[])","url":"main(java.lang.String[])"}]
